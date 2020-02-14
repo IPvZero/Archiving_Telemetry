@@ -12,6 +12,8 @@ Personal thank you and shout out to Stuart Clark @bigevilbeard for his contribut
 ### About me
 I am a Youtube content creator and Cybersecurity & Networks student with a strong interest in NetDevOps/Automation/Programmability
 
-Follow me on [Twitter](https://twitter.com/IPvZero)
+Follow me on [Twitter](https://twitter.com/IPvZero)!
+
+Thank you!
 
 
