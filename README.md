@@ -1,4 +1,4 @@
-# Intro to Genie
+# Nornir - Archiving Telemetry
 
 This code is based off my video Introduction To Genie video, which can be found [here](https://www.youtube.com/watch?v=VLOs6V-Xq5E)
 
