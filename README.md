@@ -1,6 +1,6 @@
 # Nornir - Archiving Telemetry
 
-This code is based off my video Introduction To Genie video, which can be found [here](https://www.youtube.com/watch?v=VLOs6V-Xq5E)
+This code is based off my video: "Nornir (Python Network Automation) | Archiving Telemetry", which can be found [here](https://www.youtube.com/watch?v=VLOs6V-Xq5E)
 
 Personal thank you and shout out to Stuart Clark @bigevilbeard for his contributions and help!
 
