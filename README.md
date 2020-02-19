@@ -14,6 +14,8 @@ pip3 install nornir
 
 ### Use Case Description
 
+This script uses Nornir to collect a selection of chosen "show commands" in order to gather network statistics. The script will first create an archive folder named "config-archive", and within that a range of date-stamped subfolders - one for every day the script is deployed. Within each date there will be an individual folder created for each show command entered with the commands subsequent output - allowing network administrators to easily document and reference the network's health and performance on a day-by-day basis.
+
 ![teaser image](./Images/archivingtelpic.png)
 
 ### About me
