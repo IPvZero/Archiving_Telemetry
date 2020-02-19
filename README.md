@@ -16,10 +16,15 @@ pip3 install nornir
 
 This script uses Nornir to collect a selection of chosen "show commands" in order to gather network statistics. The script will first create an archive folder named "config-archive", and within that a range of date-stamped subfolders - one for every day the script is deployed. Inside each day there will exist an individual folder created for every show command entered containing its output - allowing network administrators to easily document, reference and compare the network's health and performance on a day-by-day basis. The script can be easily edited to include the show commands of your choice, as shown in the video demonstration.
 
+Once Nornir is installed, you can execute the script by simply entering:
+```
+python3 archive-shows.py
+```
+
 ![teaser image](./Images/archivingtelpic.png)
 
 ### About me
-I am a Youtube content creator and Cybersecurity & Networks student with a strong interest in NetDevOps/Automation/Programmability.
+I am a Youtube content creator and Cybersecurity & Networks student with a strong interest in NetDevOps, Automation & Network Programmability.
 
 Follow me on [Twitter](https://twitter.com/IPvZero)!
 
