@@ -5,6 +5,13 @@ This code is based off my video: "Nornir (Python Network Automation) | Archiving
 Personal thank you and shout out to Stuart Clark @bigevilbeard for his contributions and help!
 
 
+### Dependencies
+
+```
+pip3 install nornir
+```
+
+
 ### Use Case Description
 
 ![teaser image](./Images/archivingtelpic.png)
